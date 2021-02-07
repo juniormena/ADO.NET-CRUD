@@ -1,0 +1,12 @@
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\bin\Debug\CRUDEXAMPLE2.exe.config
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\bin\Debug\CRUDEXAMPLE2.exe
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\bin\Debug\CRUDEXAMPLE2.pdb
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.csprojAssemblyReference.cache
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.Form1.resources
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.Form2.resources
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.Properties.Resources.resources
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.csproj.GenerateResource.cache
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.csproj.CoreCompileInputs.cache
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.exe
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.pdb
+C:\Users\JUNIO\OneDrive - Universidad APEC - Academico\Tecnologia propetaria I\Proyectos y tareas\CRUDEXAMPLE2\CRUDEXAMPLE2\obj\Debug\CRUDEXAMPLE2.frmEdEstudiantes.resources
